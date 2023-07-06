@@ -1,3 +1,18 @@
+
+# 🎬MovieHub🍿
+   This website is developed using React.js library and TMDB API. It is a great platform for movie enthusiast to explore,discover and engage with the vast collection of Movies and TV-Series.
+   
+## Features
+
+- API Fetching for Movies and TV-Series.
+- Trending page that show trending Movies and TV-Series. 
+- Movie Page where you can see varity of movies with their ratings, name, release date and poster.
+- TV Series page where you can see varity of TV-Series with their ratings, name, release date and poster.
+- Search page having Searching and filtering functionalities.
+- On clicking movie or tv-series it shows the cast name and photos,small description about the movie or series.
+- Different genres like action, adventure, comedy, drama, family, kids, sci-fi,etc for both movies and tv-series.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
